@@ -93,11 +93,14 @@ Performed descriptive statistics on:
 
 * Most products have ratings between 4.0 and 4.5.
 * Low-rated products are relatively rare.
+<img width="695" height="470" alt="rating_distribution" src="https://github.com/user-attachments/assets/a8ebabb2-4d2d-40a5-86a0-1e66a9a7dce0" />
+
 
 ### Discounts
 
 * Average discount percentage is approximately 48%.
 * Sellers frequently use discounts as a pricing strategy.
+<img width="695" height="470" alt="Discount Percentage Distribution" src="https://github.com/user-attachments/assets/c2231558-fd5e-4a8c-a831-80caf3d584ef" />
 
 ### Pricing
 
@@ -153,5 +156,3 @@ Amazon-EDA/
 Susinthiran A
 
 Final Year Information Technology Student
-
-Interested in Data Science, Cloud Computing, and Analytics
