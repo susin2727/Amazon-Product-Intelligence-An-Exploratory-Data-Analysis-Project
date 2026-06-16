@@ -127,6 +127,28 @@ Performed descriptive statistics on:
 * Premium-priced products coexist with budget-friendly products, indicating a diverse marketplace.
 
 ---
+## Project Summary
+
+| Metric                      | Value                                        |
+| --------------------------- | -------------------------------------------- |
+| Dataset Name                | Amazon Products and Customer Reviews Dataset |
+| Total Records               | 1465                                         |
+| Total Features              | 16                                           |
+| Missing Values              | 2 (rating_count column)                      |
+| Duplicate Records           | 0                                            |
+| Average Discount Percentage | 47.69%                                       |
+| Average Discounted Price    | ₹3,125.31                                    |
+| Average Actual Price        | ₹5,444.99                                    |
+| Median Discounted Price     | ₹799                                         |
+| Median Actual Price         | ₹1,650                                       |
+| Highest Product Price       | ₹139,900                                     |
+| Lowest Product Price        | ₹39                                          |
+| Average Rating Count        | 18,295                                       |
+| Highest Rating Count        | 426,973                                      |
+| Largest Product Category    | USB Cables (233 products)                    |
+| Tools Used                  | Python, Pandas, NumPy, Matplotlib, Seaborn   |
+| Analysis Type               | Exploratory Data Analysis (EDA)              |
+
 
 ## Conclusion
 
